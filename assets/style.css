@@ -65,7 +65,6 @@ body {
 .social-link img {
 	width: 20px;
 	height: 20px;
-	/* # */
 }
 
 #about {
@@ -96,7 +95,6 @@ body {
 .picture img {
 	width: 100%;
 	height: auto;
-	/* # */
 
 }
 #about-me {
@@ -127,7 +125,6 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #000;
-	/* # */
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
